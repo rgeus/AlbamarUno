@@ -8,7 +8,7 @@ Wanneer aangeroepen met een browser toont de website een kalender, waarin gearce
 Het zijn daarmee drie onafhankelijke processen waarvoor specifieke technologie is gebruikt, namelijk resp. Z-Way, Python en PHP/ Javascript.
 
 Bug-list
-001
+#001
 
 Back-log
-001
+#001
